@@ -4,10 +4,15 @@ A food recipes application that allows users to explore various recipes with the
 
 Features:
 ✅ Display a variety of recipes with images, ingredients, and preparation steps
+
 ✅ Search for recipes by name
+
 ✅ Categorize recipes (Breakfast, Lunch, Dinner, Desserts, Beverages...)
+
 ✅ Save favorite recipes for quick access
+
 ✅ Responsive and easy-to-use design
+
 
 Technologies Used:
 Laravel
