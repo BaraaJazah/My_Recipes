@@ -22,6 +22,7 @@ Features:
 Technologies Used:
 
 Laravel
+
 MySQL for data storage
 
 📝 Note: I did not design the frontend of the website but used a pre-made template. My focus was on backend development.
