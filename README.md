@@ -3,10 +3,12 @@
 
 A food recipes application that allows users to explore various recipes with the ability to browse ingredients and preparation steps. The app features a simple and user-friendly design, with support for searching recipes by name.
 
-You can watch on YouTube : https://youtu.be/uvbXXMdOzSk
-Date : 18 / 02 / 2023
+▶️ YouTube : https://youtu.be/bv8ca56VVy4
 
-Features:
+📅 Date : 18 / 02 / 2023
+
+
+## Features:
 
 ✅ Display a variety of recipes with images, ingredients, and preparation steps
 
@@ -19,7 +21,7 @@ Features:
 ✅ Responsive and easy-to-use design
 
 
-Technologies Used:
+## Technologies Used:
 
 Laravel
 
